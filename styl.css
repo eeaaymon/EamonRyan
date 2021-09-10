@@ -1,0 +1,17 @@
+.eamonDiv{
+    color:rgb(87, 32, 19);
+    font-style: italic;
+    background-color: gray;
+    font-family: sans-serif;
+}
+
+#decoration{
+    text-decoration: wavy;
+}
+
+#bob{
+    color: red;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
