@@ -1,7 +1,6 @@
 .eamonDiv{
-    color:rgb(87, 32, 19);
-    font-style: italic;
-    background-color: gray;
+    color:rgb(255, 255, 255);
+    background-color: rgb(7, 168, 7);
     font-family: sans-serif;
 }
 
@@ -15,3 +14,4 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: aqua;
 }
+
